@@ -25,5 +25,5 @@ whether the original and reversed numbers are equal or not.*/
     {
         printf("The original and reversed numbers are not equal\n");
     }
-    return 0;s
+    return 0;
 }
